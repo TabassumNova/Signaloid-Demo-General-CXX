@@ -17,7 +17,7 @@ main(int argc, char *  argv[])
 	std::cout << '\n' << std::endl;
 	std::cout << "I most like the part of my job where I can play with different hardware and implement my knowledge about computer vision, machine learning, and data analysis to solve real-world problems. I also enjoy learning new things and adding depth to my knowledge. In the future, I want to explore more in the challenging fields of computer vision and deep learning and their practical application in automation." << std::endl;
 	std::cout << '\n' << std::endl;
-	std::cout << "The Software Engineer, Probabilistic Robotics Applications (DE) at Signaloid is a perfect opportunity for me to delve deeper into the realm of machine learning and data science. I will have the opportunity to take new challenges and learn new skills. This program will also offer a gateway to expand my professional network by collaborating with pioneering researchers. With all this in mind, I see this opportunity to align my choice with my objective in terms of career progression." << std::endl;
+	std::cout << "The Software Engineer, Probabilistic Robotics Applications (DE) at Signaloid is a perfect opportunity for me to delve deeper into the realm of robotics. I will have the opportunity to take new challenges and learn new skills. This program will also offer a gateway to expand my professional network by collaborating with pioneering researchers. With all this in mind, I see this opportunity to align my choice with my objective in terms of career progression." << std::endl;
 	std::cout << '\n' << std::endl;
 	std::cout << "I hope that you will find me eligible for this opportunity. Thank you for your time. I hope to hear from you soon." << std::endl;
 	std::cout << '\n' << std::endl;

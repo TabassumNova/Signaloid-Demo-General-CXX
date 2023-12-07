@@ -3,9 +3,9 @@
 #include <vector>
 #include <uxhw.h>
 
-// int
-// main(int argc, char *  argv[])
-main(void)
+int
+main(int argc, char *  argv[])
+// main(void)
 {
 	std::cout << "I am writing to express my interest in the Software Engineer, Probabilistic Robotics Applications (DE) at Signaloid. I am confident that with my academic background, prior experience, and skills, I would be able to perform the responsibilities demanded by this position." << std::endl;
 	std::cout << '\n' << std::endl;

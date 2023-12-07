@@ -7,6 +7,12 @@ int
 main(int argc, char *  argv[])
 // main(void)
 {
+	std::cout << "Tasnim Tabassum Nova" << std::endl;
+	std::cout << "Address: Leipzig, Germany" << std::endl;
+	std::cout << "Mobile No.:   +4915219353230     Email Address:  tabassumnova1@gmail.com" << std::endl;
+	std::cout << '\n' << std::endl;
+	std::cout << "Dear Hiring Manager," << std::endl;
+	std::cout << '\n' << std::endl;
 	std::cout << "I am writing to express my interest in the Software Engineer, Probabilistic Robotics Applications (DE) at Signaloid. I am confident that with my academic background, prior experience, and skills, I would be able to perform the responsibilities demanded by this position." << std::endl;
 	std::cout << '\n' << std::endl;
 	std::cout << "I completed my graduation in Electrical and Electronic Engineering from Bangladesh University of Engineering and Technology (BUET) in 2018. Because of my keen interest in machine learning and data analysis, I have started my master’s in Medical Engineering (Medical Image and Data Processing). During my master's study, I have developed my basic understanding of deep learning, pattern recognition, and analysis. I actively participated in a deep learning exercise course in which I constructed fundamental neural network architectures such as FCNN, CNN, and RNN. This hands-on experience greatly contributed to my understanding of these model structures. I have worked on several image processing and deep learning projects and improved my programming skills in Python and C++." << std::endl;
